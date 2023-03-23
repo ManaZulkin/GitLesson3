@@ -1,0 +1,2 @@
+public class TestFile3 {
+}
